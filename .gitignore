@@ -1,2 +1,3 @@
 wormholes.txt
-moons/
+moons/*
+!moons/europa.txt
